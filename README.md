@@ -2,6 +2,8 @@
 
 Git과 GitHub의 PR 과정을 연습하는 저장소입니다.
 
+프로젝트 상태: 완료
+
 
 # B2-2 · Team Utils
 
