@@ -4,6 +4,11 @@ Git과 GitHub의 PR 과정을 연습하는 저장소입니다.
 
 프로젝트 상태: 완료
 
+## PR 자동 종료 실습
+
+이 문구는 Issue와 Pull Request 연결 기능을
+테스트하기 위해 추가했습니다.
+
 
 # B2-2 · Team Utils
 
