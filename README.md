@@ -73,3 +73,4 @@ python3 src/common.py "  Hello   team!  "
 | [충돌 기록](docs/conflict-resolution.md) · [Git 실습 기록](docs/troubleshooting-log.md) | 실제 수행 후 작성 |
 | [제출물 인덱스](SUBMISSION.md) | 실제 기여·증빙 링크 모음 |
 Direct push test
+This change will be merged through a PR.
